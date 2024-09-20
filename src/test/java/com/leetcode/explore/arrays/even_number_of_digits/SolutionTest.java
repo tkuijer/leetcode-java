@@ -1,6 +1,5 @@
 package com.leetcode.explore.arrays.even_number_of_digits;
 
-import com.leetcode.testing_support.TestInputOutputCombination;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.MethodSource;
